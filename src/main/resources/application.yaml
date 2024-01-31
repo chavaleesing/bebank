@@ -1,0 +1,5 @@
+sing:
+  description: desc from ymal
+
+server:
+  port: 8000
